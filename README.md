@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript, c++, c#, typescript, nodejs, express**
 
-- 📫 How to reach me **Anatoli Diatlov#0001 on discord**
+- 📫 How to reach me **Anatoli Diatlov on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
